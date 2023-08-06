@@ -1,2 +1,2 @@
 # 30 days of pandas
- Solutions to the 30 days of Pandas study plan on Leetcode
+This repository contains solutions to the [30 Days of Pandas](https://leetcode.com/studyplan/30-days-of-pandas/) study plan on Leetcode.
